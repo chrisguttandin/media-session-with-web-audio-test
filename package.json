@@ -28,7 +28,7 @@
         "rimraf": "^6.1.2",
         "webpack": "^5.104.1",
         "webpack-cli": "^6.0.1",
-        "webpack-dev-server": "^5.2.2"
+        "webpack-dev-server": "^5.2.3"
     },
     "homepage": "https://chrisguttandin.github.io/media-session-with-web-audio-test",
     "license": "MIT",
