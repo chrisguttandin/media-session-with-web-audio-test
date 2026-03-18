@@ -11,7 +11,7 @@
     "description": "A test page for using the Media Session API in combination with the Web Audio API.",
     "devDependencies": {
         "@babel/core": "^7.29.0",
-        "@babel/preset-env": "^7.29.0",
+        "@babel/preset-env": "^7.29.2",
         "@commitlint/cli": "^20.4.3",
         "@commitlint/config-angular": "^20.4.3",
         "babel-loader": "^10.1.0",
