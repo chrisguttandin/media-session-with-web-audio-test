@@ -35,6 +35,7 @@
     "license": "MIT",
     "main": "src/index.html",
     "name": "media-session-with-web-audio-test",
+    "packageManager": "npm@12",
     "private": true,
     "repository": {
         "type": "git",
